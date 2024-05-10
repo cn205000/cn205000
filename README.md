@@ -13,6 +13,6 @@
 <h2>🤳Connect with me:</h2>
 
 
-<h1><a href="https://www.linkedin.com/in/colby-nelson-330511303">LinkedIn</a>☺</h1>
+<h1><a href="https://www.linkedin.com/in/colby-nelson-330511303">LinkedIn</a></h1>
 
 
