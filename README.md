@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cn205000/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cn205000/azure-network-protocols)
-
+- <b>Active Directory</b>
 <h2>🤳Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/colby-nelson-330511303">LinkedIn</a>☺</h1>
