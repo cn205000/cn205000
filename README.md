@@ -10,10 +10,7 @@
 
 ---
 
-## 📂 Check out my IT Portfolio
-
-Feel free to explore my **IT Portfolio** for a more detailed look at the projects I have worked on.  
-You can find my portfolio [here](https://github.com/cn205000/IT-Portfolio/tree/main).
+## 📂 Check out my [IT Portfolio](https://github.com/cn205000/IT-Portfolio/tree/main) for more projects!
 
 ---
 ## 📫 Connect with me:
