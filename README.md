@@ -3,15 +3,10 @@
 
 ---
 
-## 🚀 IT Projects:
+## 📂[My IT Portfolio]
 
-- 🔹[**Active Directory**] - Configured Domain Controllers, created users, and applied Group Policies.
-- 🔹[**OSTicket** (Help Desk Ticketing System)] - Implemented a fully functional ticketing system.
-- 🔹[**VMs & Network Traffic Analysis**] - Created VMs, used RDP, and analyzed network traffic with Wireshark.
+Take a Look!(https://github.com/cn205000/IT-Portfolio/tree/main) at my Projects!
 
----
-
-## 📂[My IT Portfolio](https://github.com/cn205000/IT-Portfolio/tree/main) for showcases of completed projects!
 
 ---
 
