@@ -3,9 +3,9 @@
 
 ---
 
-## 📂[My IT Portfolio]
+## 📂 My IT Portfolio
 
-Take a Look!(https://github.com/cn205000/IT-Portfolio/tree/main) at my Projects!
+[Take a Look!](https://github.com/cn205000/IT-Portfolio/tree/main) at my Projects!
 
 
 ---
