@@ -1,14 +1,25 @@
-<h1>Hi, I'm Colby, an <a href="https://www.linkedin.com/in/colby-nelson-330511303">IT Professional</a>☺</h1>
+<h1 align="center">Hi, I'm Colby! 👋</h1>
+<h3 align="center">An <a href="https://www.linkedin.com/in/colby-nelson-330511303">IT Professional</a> passionate about technology and problem-solving.</h3>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+---
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+## 🚀 IT Projects:
 
-- <b>Microsoft Azure</b>
+- 🔹 **osTicket (Help Desk Ticketing System)** - Implemented a fully functional ticketing system.
+- 🔹 **Microsoft Azure** - Worked with cloud infrastructure, virtual machines, and networking.
 
-<h2>🤳Connect with me:</h2>
+---
 
+## 📫 Connect with me:
 
-<h1><a href="https://www.linkedin.com/in/colby-nelson-330511303">LinkedIn</a></h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colby-nelson-330511303)
+
+---
+
+### ⚡ About Me:
+- 💡 Enthusiastic about IT, cloud computing, and system administration.
+- 📖 Always learning and exploring new technologies.
+- 🛠️ Looking for opportunities to grow and contribute!
+
 
 
