@@ -7,7 +7,7 @@
 
 🔥 [**Take a Look at My Projects!**](https://github.com/cn205000/IT-Portfolio/tree/main) 🔥
 
-Discover the exciting IT projects I've worked on. From cloud computing to system administration, my portfolio showcases my skills in action!
+Discover the exciting IT projects I've worked on! From cloud computing to system administration, my portfolio showcases my skills in action!
 
 ---
 
