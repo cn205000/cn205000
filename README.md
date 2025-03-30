@@ -21,9 +21,7 @@
    - Creating a Virtual Machine within Azure
    - Using Remote Desktop Protocol 
    - Installing Wireshark & Observing Traffic
-
-- 🔹**Microsoft Azure** - Worked with cloud infrastructure, virtual machines, and networking.
-
+     
 ---
 
 ## 🌍 Environments & Technologies I've Worked With:
