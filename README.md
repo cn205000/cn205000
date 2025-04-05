@@ -7,15 +7,19 @@
 
 [![Take a Look at My Projects!](https://img.shields.io/badge/Take_a_Look_at_My_Projects!-FF5733%2CFFB300?style=for-the-badge)](https://github.com/cn205000/IT-Portfolio/tree/main)
 
-- 🔹[**Active Directory**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory) 
-   - Configuring a Domain Controller & Active Directory
-   - Creating Users
-   - Managing Group Policies
+- 🔹[**Active Directory**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory)
+  <br>
+   - [**Domain Server Creation In Azure**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/Azure-Domain-Setup)
+   - [**Active Directory Domain Controller Setup**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/ActiveDirectory-DomainSetup)
+   - [**Active Directory User Management**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/ActiveDirectory-UserManagement)
+   - [**Active Directory Group Management**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/ActiveDirectory-GPO-Management)
+<br>
 
 - 🔹[**OSTicket** (Help Desk Ticketing System)](https://github.com/cn205000/IT-Portfolio/tree/main/OSTicket) - Implemented a fully functional ticketing system.
    - Installing Prerequisites & Application 
    - Post-Installation Configuration
    - Using OSTicket
+<br>
 
 - 🔹[**VMs & Network Traffic Analysis**](https://github.com/cn205000/IT-Portfolio/tree/main/VM's%20%26%20Network%20Traffic) 
    - Creating a Virtual Machine within Azure
@@ -39,7 +43,7 @@
 ---
 
 ### ⚡ About Me:
-- 💡 Enthusiastic about IT, cloud computing, and system administration.
+- 💡 Enthusiastic about IT & Pushing myself to learn as much as possible!
 - 📖 Always learning and exploring new technologies.
 - 🛠️ Looking for opportunities to grow and contribute!
 
