@@ -3,24 +3,22 @@
 
 ---
 
-## 🚀 **Explore My IT Portfolio** 📂
+# 🚀 **Explore My IT Portfolio** 📂
 
-- 🔹[**Active Directory**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory)
-  <br>
+##  🔹[**Active Directory**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory) - Active Directory Deployment & Management Projects
+
   
    - [**Domain Server Creation In Azure**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/Azure-Domain-Setup)
    - [**Active Directory Domain Controller Setup**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/ActiveDirectory-DomainSetup)
    - [**Active Directory User Management**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/ActiveDirectory-UserManagement)
    - [**Active Directory Group Management**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/ActiveDirectory-GPO-Management)
-<br>
 
-- 🔹[**OSTicket** (Help Desk Ticketing System)](https://github.com/cn205000/IT-Portfolio/tree/main/OSTicket) - Implemented a fully functional ticketing system.
+## 🔹[**OSTicket** (Help Desk Ticketing System)](https://github.com/cn205000/IT-Portfolio/tree/main/OSTicket) - Implemented a fully functional ticketing system.
    - Installing Prerequisites & Application 
    - Post-Installation Configuration
    - Using OSTicket
-<br>
 
-- 🔹[**VMs & Network Traffic Analysis**](https://github.com/cn205000/IT-Portfolio/tree/main/VM's%20%26%20Network%20Traffic) 
+## 🔹[**VMs & Network Traffic Analysis**](https://github.com/cn205000/IT-Portfolio/tree/main/VM's%20%26%20Network%20Traffic) 
    - Creating a Virtual Machine within Azure
    - Using Remote Desktop Protocol 
    - Installing Wireshark & Observing Traffic
