@@ -5,8 +5,6 @@
 
 ## 🚀 **Explore My IT Portfolio** 📂
 
-[![Take a Look at My Projects!](https://img.shields.io/badge/Take_a_Look_at_My_Projects!-FF5733%2CFFB300?style=for-the-badge)](https://github.com/cn205000/IT-Portfolio/tree/main)
-
 - 🔹[**Active Directory**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory)
   <br>
   
