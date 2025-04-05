@@ -13,7 +13,7 @@
    - [**Active Directory User Management**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/ActiveDirectory-UserManagement)
    - [**Active Directory Group Management**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/ActiveDirectory-GPO-Management)
 
-## 🔹[**OSTicket** (Help Desk Ticketing System)](https://github.com/cn205000/IT-Portfolio/tree/main/OSTicket) - Implemented a fully functional ticketing system.
+## 🔹[**OSTicket** (Help Desk Ticketing)](https://github.com/cn205000/IT-Portfolio/tree/main/OSTicket) - Implemented a fully functional ticketing system.
    - Installing Prerequisites & Application 
    - Post-Installation Configuration
    - Using OSTicket
