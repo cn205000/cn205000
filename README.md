@@ -26,7 +26,7 @@
 
 ## 🌍 Environments & Technologies I've Worked With:
 
-- 💻 **Windows 10 & 11** – Daily use with strong troubleshooting experience across applications, settings, and hardware.
+- 💻 **Windows 10 & 11** – Years of Daily use with strong troubleshooting experience across applications, settings, and hardware.
 - 🧩 **osTicket** – Installed, configured, and managed a full-featured ticketing system from scratch.
 - ☁️ **Microsoft Azure** – Built virtual machines, virtual networks, and simulated enterprise environments.
 - 🔐 **Active Directory** – Deployed and tested user, group, and GPO configurations in lab setups.
