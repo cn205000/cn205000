@@ -13,12 +13,12 @@
    - [**Active Directory User Management**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/ActiveDirectory-UserManagement)
    - [**Active Directory Group Management**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory/ActiveDirectory-GPO-Management)
 
-## 🔹[**OSTicket** (Help Desk Ticketing)](https://github.com/cn205000/IT-Portfolio/tree/main/OSTicket) - Implemented a fully functional ticketing system.
+## 🔹[**OSTicket** (Help Desk Ticketing)](https://github.com/cn205000/IT-Portfolio/tree/main/OSTicket) - Implemented A Fully Functional Ticketing System.
    - [**Installing Prerequisites & osTicket**](https://github.com/cn205000/IT-Portfolio/tree/main/OSTicket/Installation) 
    - [**Post-Installation Configuration**](https://github.com/cn205000/IT-Portfolio/tree/main/OSTicket/Post-Installation)
    - [**osTicket Ticket Cycle**](https://github.com/cn205000/IT-Portfolio/tree/main/osTicket/osTicket-TicketCycle)
 
-## 🔹[**VMs & Network Traffic Analysis**](https://github.com/cn205000/IT-Portfolio/tree/main/VM's%20%26%20Network%20Traffic) - Traffic monitoring & Analysis with Wireshark.
+## 🔹[**VMs & Network Traffic Analysis**](https://github.com/cn205000/IT-Portfolio/tree/main/VM's%20%26%20Network%20Traffic) - Traffic Monitoring & Analysis With Wireshark.
    - [**Creating Virtual Machines in the Same Azure Network**](https://github.com/cn205000/IT-Portfolio/tree/main/VM's%20%26%20Network%20Traffic/Creating-VMs-Within-Azure) 
    - [**Monitoring Network Traffic Between Azure VMs with Wireshark**](https://github.com/cn205000/IT-Portfolio/tree/main/VM's%20%26%20Network%20Traffic/Traffic-Monitoring-With-Wireshark)
      
