@@ -26,10 +26,14 @@
 
 ## 🌍 Environments & Technologies I've Worked With:
 
-- 💻 **Windows OS** - Extensive experience with Windows Server, including administration and troubleshooting.
-- 🖥️ **AS400** - Hands-on experience with IBM AS/400 systems for enterprise-level applications.
-- ☁️ **Microsoft Azure** - Cloud computing, virtual machines, networking, and storage solutions.
-
+- 💻 **Windows 10 & 11** – Daily use with strong troubleshooting experience across applications, settings, and hardware.
+- 🧩 **osTicket** – Installed, configured, and managed a full-featured ticketing system from scratch.
+- ☁️ **Microsoft Azure** – Built virtual machines, virtual networks, and simulated enterprise environments.
+- 🔐 **Active Directory** – Deployed and tested user, group, and GPO configurations in lab setups.
+- 🖥️ **AS400** - Hands-on & daily use experience with IBM AS/400 systems for enterprise-level applications.
+- 🧪 **Wireshark** – Captured and analyzed network traffic to understand communication between VMs.
+- 🔧 **PC Hardware & Software Troubleshooting** – Problem-solved real issues related to gaming, drivers, and performance.
+  
 ---
 
 ## 📫 Connect with me!
