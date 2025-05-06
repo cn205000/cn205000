@@ -32,7 +32,7 @@
 - 🔐 **Active Directory** – Deployed and tested user, group, and GPO configurations in lab setups.
 - 🖥️ **AS400** - Hands-on & daily use experience with IBM AS/400 systems for enterprise-level applications.
 - 🧪 **Wireshark** – Captured and analyzed network traffic to understand communication between VMs.
-- 🔧 **PC Hardware & Software Troubleshooting** – Problem-solved real issues related to software, Hardware, gaming, drivers, and performance.
+- 🔧 **PC Hardware & Software Troubleshooting** – Problem-solved real issues related to software, hardware, gaming, drivers, and performance.
   
 ---
 
