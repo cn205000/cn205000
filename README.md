@@ -3,7 +3,7 @@
 
 ---
 
-# 📂 **IT Support Portfolio – CourseCareers (97% Final Exam Score)** 📂
+# 📂 **IT Support Portfolio – CourseCareers (97% Final Exam)** 📂
 
 ##  🔹[**Active Directory**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory) - Active Directory Deployment & Management Projects
 
