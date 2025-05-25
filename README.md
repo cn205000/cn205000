@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Colby! 👋</h1>
-<h3 align="center">A <a href="https://www.linkedin.com/in/colby-nelson-330511303">Self-Taught IT Specialist</a> passionate about technology and problem-solving.</h3>
+<h3 align="center">A <a href="https://www.linkedin.com/in/colby-nelson-330511303">IT Professional</a> passionate about technology and problem-solving.</h3>
 
 ---
 
-# 🚀 **Explore My IT Portfolio** 📂
+# 📂 **IT Support Portfolio – CourseCareers (97% Final Exam Score)** 📂
 
 ##  🔹[**Active Directory**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory) - Active Directory Deployment & Management Projects
 
