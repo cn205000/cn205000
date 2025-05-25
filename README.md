@@ -3,7 +3,7 @@
 
 ---
 
-# 📂 **IT Support Portfolio – CourseCareers (97% Final Exam)** 📂
+# 📂 **IT Support Portfolio – CourseCareers** 📂
 
 ##  🔹[**Active Directory**](https://github.com/cn205000/IT-Portfolio/tree/main/Active%20Directory) - Active Directory Deployment & Management Projects
 
@@ -43,6 +43,7 @@
 ---
 
 ### ⚡ About Me:
+- 🔥 Passed CourseCareers With A 97% Final Exam Score
 - 💡 Enthusiastic about IT & Pushing myself to learn as much as possible!
 - 📖 Always learning and exploring new technologies.
 - 🛠️ Looking for opportunities to grow and contribute!
